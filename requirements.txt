@@ -6,7 +6,7 @@ certifi==2023.5.7
 cffi==1.15.1
 charset-normalizer==3.2.0
 click==8.1.7
-Flask==3.0.0
+flask==3.0.0
 numpy==1.23.5
 opencv-python==4.6.0.66
 pandas==2.1.3
